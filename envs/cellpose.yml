@@ -3,9 +3,9 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.10
-  - pip
+  - python=3.10.12
+  - pip=24.0
+  - matplotlib=3.8.2
+  - scikit-image=0.22.0
   - pip:
-      - cellpose
-      - scikit-image
-      - matplotlib
+      - cellpose==4.0.3
