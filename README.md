@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Reproducible Cell Segmentation Pipeline (Nextflow)
 
 This project demonstrates how to build a **reproducible, scalable image segmentation workflow** using [Cellpose](https://www.cellpose.org/), [Nextflow](https://www.nextflow.io/), and Conda or Docker.  
